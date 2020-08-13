@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e644f25-490a-46f3-965d-b83bb4d7dff0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/master_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/master_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Pytest_Automation$py_test_in_TestQueryInventory_and_test_queryByItemBatchNo.coverage" NAME="py.test in TestQueryInventory and test_queryByItemBatchNo Coverage Results" MODIFIED="1594881023225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Pytest_Automation$common_function.coverage" NAME="common_function Coverage Results" MODIFIED="1594968998393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/Pytest_Automation$py_test_in_TestQueryInventory_and_test_queryByItemBatchNo__1_.coverage" NAME="py.test in TestQueryInventory and test_queryByItemBatchNo (1) Coverage Results" MODIFIED="1594969481839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Pytest_Automation$py_test_in_TestOurCompany_and_test_addcompany.coverage" NAME="py.test in TestOurCompany and test_addcompany Coverage Results" MODIFIED="1594969123477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Pytest_Automation$py_test_in_TestQueryInventory.coverage" NAME="py.test in TestQueryInventory Coverage Results" MODIFIED="1594881936318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Pytest_Automation$py_test_in_TestCompany.coverage" NAME="py.test in TestCompany Coverage Results" MODIFIED="1594882205336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Pytest_Automation" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\gp\Desktop\Pytest_Automation\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ficOm9cyY6XXuwt7ozHuzY4pCS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\Pytest_Automation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.conftest">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pytest_Automation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="Pytest_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="common_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pytest_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/common_function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytest_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conftest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="py.test in TestCompany" type="tests" factoryName="py.test" temporary="true">
+      <module name="Pytest_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/cases/setting/test_addcompany.py" />
+      <option name="keywords" value="TestCompany" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="true" />
+      <module name="Pytest_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_legacyInformationCopiedToNew" value="true" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="py.test in TestOurCompany and test_addcompany" type="tests" factoryName="py.test" temporary="true">
+      <module name="Pytest_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/cases/setting/test_ourcompany.py" />
+      <option name="keywords" value="TestOurCompany and test_addcompany" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="true" />
+      <module name="Pytest_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_legacyInformationCopiedToNew" value="true" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="py.test in TestQueryInventory and test_queryByItemBatchNo (1)" type="tests" factoryName="py.test" temporary="true">
+      <module name="Pytest_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/cases/inventory/test_queryinventory.py" />
+      <option name="keywords" value="TestQueryInventory and test_queryByItemBatchNo" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="true" />
+      <module name="Pytest_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_legacyInformationCopiedToNew" value="true" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.common_function" />
+      <item itemvalue="Python.conftest" />
+      <item itemvalue="Python tests.py.test in TestCompany" />
+      <item itemvalue="Python tests.py.test in TestOurCompany and test_addcompany" />
+      <item itemvalue="Python tests.py.test in TestQueryInventory and test_queryByItemBatchNo (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.conftest" />
+        <item itemvalue="Python tests.py.test in TestQueryInventory and test_queryByItemBatchNo (1)" />
+        <item itemvalue="Python tests.py.test in TestOurCompany and test_addcompany" />
+        <item itemvalue="Python.common_function" />
+        <item itemvalue="Python tests.py.test in TestCompany" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e644f25-490a-46f3-965d-b83bb4d7dff0" name="Default" comment="" />
+      <created>1594881003439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594881003439</updated>
+      <workItem from="1596704327211" duration="865000" />
+      <workItem from="1596705546376" duration="1475000" />
+      <workItem from="1596707067469" duration="1510000" />
+      <workItem from="1597300127045" duration="2051000" />
+    </task>
+    <task id="LOCAL-00001" summary="pytest1.0">
+      <created>1597300375176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597300375176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_TestOurCompany_and_test_addcompany - 2020.07.17 at 14h 58m 10s.xml">
+      <configuration name="py.test in TestOurCompany and test_addcompany" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TestOurCompany_and_test_addcompany - 2020.07.17 at 14h 58m 44s.xml">
+      <configuration name="py.test in TestOurCompany and test_addcompany" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TestQueryInventory_and_test_queryByItemBatchNo_(1) - 2020.07.17 at 14h 31m 52s.xml">
+      <configuration name="py.test in TestQueryInventory and test_queryByItemBatchNo (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TestQueryInventory_and_test_queryByItemBatchNo_(1) - 2020.07.17 at 14h 35m 27s.xml">
+      <configuration name="py.test in TestQueryInventory and test_queryByItemBatchNo (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TestQueryInventory_and_test_queryByItemBatchNo_(1) - 2020.07.17 at 14h 41m 04s.xml">
+      <configuration name="py.test in TestQueryInventory and test_queryByItemBatchNo (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TestQueryInventory_and_test_queryByItemBatchNo_(1) - 2020.07.17 at 14h 59m 42s.xml">
+      <configuration name="py.test in TestQueryInventory and test_queryByItemBatchNo (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TestQueryInventory_and_test_queryByItemBatchNo_(1) - 2020.07.17 at 15h 00m 04s.xml">
+      <configuration name="py.test in TestQueryInventory and test_queryByItemBatchNo (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TestQueryInventory_and_test_queryByItemBatchNo_(1) - 2020.07.17 at 15h 00m 59s.xml">
+      <configuration name="py.test in TestQueryInventory and test_queryByItemBatchNo (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TestQueryInventory_and_test_queryByItemBatchNo_(1) - 2020.07.17 at 15h 01m 24s.xml">
+      <configuration name="py.test in TestQueryInventory and test_queryByItemBatchNo (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TestQueryInventory_and_test_queryByItemBatchNo_(1) - 2020.07.17 at 15h 04m 44s.xml">
+      <configuration name="py.test in TestQueryInventory and test_queryByItemBatchNo (1)" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pytest1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="pytest1.0" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="179" key="#Notifications" timestamp="1597300475095">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="179" key="#Notifications/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597300475095" />
+    <state x="-1363" y="111" key="CommitChangelistDialog2" timestamp="1597300373586">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1363" y="111" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597300373586" />
+    <state x="-1234" y="212" key="FileChooserDialogImpl" timestamp="1597302309630">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1234" y="212" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597302309630" />
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1596708562761" />
+    <state width="746" height="348" key="GridCell.Tab.0.bottom" timestamp="1596707025936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1596707025936" />
+    <state width="746" height="348" key="GridCell.Tab.0.center" timestamp="1596707025935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="348" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1596707025935" />
+    <state width="746" height="348" key="GridCell.Tab.0.left" timestamp="1596707025935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="348" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1596707025935" />
+    <state width="746" height="348" key="GridCell.Tab.0.right" timestamp="1596707025935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="348" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1596707025935" />
+    <state x="-1574" y="69" key="SettingsEditor" timestamp="1597300144288">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1574" y="69" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597300144288" />
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1596707855746" />
+    <state x="93" y="93" width="1350" height="638" key="ShowDiffWithBranchDialog" timestamp="1597301015364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="ShowDiffWithBranchDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1597301015364" />
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597300385086">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597300385086" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1596707095121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1596707095121" />
+    <state x="-1364" y="350" key="git4idea.merge.GitPullDialog" timestamp="1597305473170">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1364" y="350" key="git4idea.merge.GitPullDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597305473170" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1597300809220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1597300809220" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pytest_Automation$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1596705623033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
