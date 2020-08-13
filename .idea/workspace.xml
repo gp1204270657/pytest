@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e644f25-490a-46f3-965d-b83bb4d7dff0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-    </list>
+    <list default="true" id="6e644f25-490a-46f3-965d-b83bb4d7dff0" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +40,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ficOm9cyY6XXuwt7ozHuzY4pCS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -50,7 +49,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pytest" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -298,8 +297,7 @@
       <workItem from="1596704327211" duration="865000" />
       <workItem from="1596705546376" duration="1475000" />
       <workItem from="1596707067469" duration="1510000" />
-      <workItem from="1597300127045" duration="1797000" />
-      <workItem from="1597302313739" duration="832000" />
+      <workItem from="1597300127045" duration="2051000" />
     </task>
     <task id="LOCAL-00001" summary="pytest1.0">
       <created>1597300375176</created>
@@ -359,10 +357,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1363" y="111" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597300373586" />
-    <state x="-1234" y="212" key="FileChooserDialogImpl" timestamp="1596708577450">
+    <state x="-1234" y="212" key="FileChooserDialogImpl" timestamp="1597302309630">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1234" y="212" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1596708577450" />
+    <state x="-1234" y="212" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1597302309630" />
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1596708562761" />
     <state width="746" height="348" key="GridCell.Tab.0.bottom" timestamp="1596707025936">
       <screen x="0" y="0" width="1536" height="824" />
